@@ -1,11 +1,11 @@
 # Site settings
-author: diegojctorres
-title: 
+author: Diego Torres
+title: JACK OF ALL TRADES- On to Software Engineering
 header-img: img/home-bg.png
 email: diegojctorres@gmail.com
-copyright_name: diegojctorres
+copyright_name: Diego Torres
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Journey into Software Engineering as a Career
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  diegojctorres
